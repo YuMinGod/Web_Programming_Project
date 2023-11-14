@@ -35,7 +35,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://eastshine94.github.io/Responsive_Web",
+  "homepage": "./",
   "browserslist": {
     "production": [
       ">0.2%",
