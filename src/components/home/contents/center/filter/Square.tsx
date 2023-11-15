@@ -77,19 +77,19 @@ const images = [
     },
     {
         src:"",
-        effect: "none"
+        effect: "none2"
     },
     {
         src:"",
-        effect: "none"
+        effect: "none3"
     },
     {
         src:"",
-        effect: "none"
+        effect: "none4"
     },
     {
         src:"",
-        effect: "none"
+        effect: "none5"
     },
     
 ];

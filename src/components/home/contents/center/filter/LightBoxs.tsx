@@ -11,6 +11,7 @@ const images = ["https://github.com/YuMinGod/react/blob/main/123.PNG?raw=true",
     "",
     "",
     "",
+    "",
 ];
 const LightBoxs: React.FC<Props> = ({ index, setVisible }) => {
     const [idx, setIdx] = useState(index);
