@@ -53,7 +53,7 @@ const HoverBlock:React.SFC = () => {
         <Wrapper>
             <img src="https://github.com/YuMinGod/react/blob/main/public/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B8.png?raw=true" alt="image3"/>
             <figcaption>
-                <h3><em>TOEIC Speaking</em>+<em>HSK</em></h3>
+                <h3><em>TOES</em>+<em>HSK</em></h3>
             </figcaption>
         </Wrapper>
     );
