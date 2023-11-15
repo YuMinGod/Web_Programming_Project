@@ -72,24 +72,24 @@ const Box = styled.div`
 
 const images = [
     {
-        src:"https://user-images.githubusercontent.com/41350459/82135447-ef185e00-983d-11ea-9cf9-8233adeba9c1.jpg",
-        effect: "Discord Score bot"
+        src:"https://github.com/YuMinGod/react/blob/main/youtube_logo.PNG?raw=true",
+        effect: "YT Downloader"
     },
     {
-        src:"https://user-images.githubusercontent.com/41350459/82135448-f0e22180-983d-11ea-8c13-e0bd0f1b4275.jpg",
-        effect: "Discord avg bot"
+        src:"",
+        effect: "none"
     },
     {
-        src:"https://user-images.githubusercontent.com/41350459/82135451-f2134e80-983d-11ea-8868-6881c81e274c.jpg",
-        effect: "Simple Char move"
+        src:"",
+        effect: "none"
     },
     {
-        src:"https://user-images.githubusercontent.com/41350459/82135453-f2abe500-983d-11ea-9407-2c581f32f4b4.jpg",
-        effect: "KeyLogger"
+        src:"",
+        effect: "none"
     },
     {
-        src:"https://user-images.githubusercontent.com/41350459/82135455-f475a880-983d-11ea-8b91-15bc962ae352.jpg",
-        effect: "Penguin Game"
+        src:"",
+        effect: "none"
     },
     
 ];
