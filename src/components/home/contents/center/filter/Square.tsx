@@ -18,36 +18,21 @@ const Box = styled.div`
         bottom: 0;
     }
     &:nth-child(1):hover img{
-        filter: blur(2px);
+        filter: brightness(50%);
     }
     &:nth-child(2):hover img{
         filter: brightness(50%);
     }
     &:nth-child(3):hover img{
-        filter: contrast(10%);
+        filter: brightness(50%);
     }
     &:nth-child(4):hover img{
-        filter: grayscale(100%);
+        filter: brightness(50%);
     }
     &:nth-child(5):hover img{
-        filter: hue-rotate(120deg);
+        filter: brightness(50%);
     }
-    &:nth-child(6):hover img{
-        filter: invert(100%);
-    }
-    &:nth-child(7):hover img{
-        filter: opacity(10%);
-    }
-    &:nth-child(8):hover img{
-        filter: saturate(10%);
-    }
-    &:nth-child(9):hover img{
-        filter: sepia(120%);
-    }
-    &:nth-child(10):hover img{
-        filter: sepia(120%) hue-rotate(120deg);
-    }
-
+    
 
     & img {
         width: 100%;
@@ -88,44 +73,25 @@ const Box = styled.div`
 const images = [
     {
         src:"https://user-images.githubusercontent.com/41350459/82135447-ef185e00-983d-11ea-9cf9-8233adeba9c1.jpg",
-        effect: "blur"
+        effect: "Discord Score bot"
     },
     {
         src:"https://user-images.githubusercontent.com/41350459/82135448-f0e22180-983d-11ea-8c13-e0bd0f1b4275.jpg",
-        effect: "brightness"
+        effect: "Discord avg bot"
     },
     {
         src:"https://user-images.githubusercontent.com/41350459/82135451-f2134e80-983d-11ea-8868-6881c81e274c.jpg",
-        effect: "contrast"
+        effect: "Simple Char move"
     },
     {
         src:"https://user-images.githubusercontent.com/41350459/82135453-f2abe500-983d-11ea-9407-2c581f32f4b4.jpg",
-        effect: "grayscale"
+        effect: "KeyLogger"
     },
     {
         src:"https://user-images.githubusercontent.com/41350459/82135455-f475a880-983d-11ea-8b91-15bc962ae352.jpg",
-        effect: "hue-rotate"
+        effect: "Penguin Game"
     },
-    {
-        src:"https://user-images.githubusercontent.com/41350459/82135456-f50e3f00-983d-11ea-9c8d-7f0c0c03fc06.jpg",
-        effect: "invert"
-    },
-    {
-        src:"https://user-images.githubusercontent.com/41350459/82135457-f8092f80-983d-11ea-9c27-8c7669131be2.jpg",
-        effect: "opacity"
-    },
-    {
-        src:"https://user-images.githubusercontent.com/41350459/82135458-f93a5c80-983d-11ea-99ce-1cc723ead256.jpg",
-        effect: "saturate"
-    },
-    {
-        src:"https://user-images.githubusercontent.com/41350459/82135460-fd667a00-983d-11ea-8e72-923de74945f8.jpg",
-        effect: "sepia"
-    },
-    {
-        src:"https://user-images.githubusercontent.com/41350459/82135461-ffc8d400-983d-11ea-9dbd-3dee05c97207.jpg",
-        effect: "Mix"
-    },
+    
 ];
 const Square: React.FC = () => {
     const [idx, setIdx] = useState(0);
