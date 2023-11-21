@@ -7,7 +7,7 @@ interface Props {
     setVisible: (visible:boolean) => void;
 }
 const images = ["https://github.com/YuMinGod/react/blob/main/123.PNG?raw=true",
-    "",
+                "https://user-images.githubusercontent.com/125354965/284475054-5dbfcae9-c512-4f68-9d21-c9d1c43e8c51.png",
     "",
     "",
     "",

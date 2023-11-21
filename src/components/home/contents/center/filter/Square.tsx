@@ -76,8 +76,8 @@ const images = [
         effect: "YT Downloader"
     },
     {
-        src:"",
-        effect: "none2"
+        src:"https://github.com/YuMinGod/react/blob/main/python.png?raw=true",
+        effect: "Login Tool"
     },
     {
         src:"",
