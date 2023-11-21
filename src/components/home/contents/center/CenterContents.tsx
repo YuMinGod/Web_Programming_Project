@@ -21,7 +21,7 @@ const Wrapper = styled.section`
 const CenterContents: React.SFC = () => {
     return (
         <Wrapper>
-            <h3><SU>반응형 사이트 가운데 컨텐츠</SU></h3>
+            <h3><SU>프로젝트 가운데 컨텐츠</SU></h3>
             <Slick/>
             <Filter/>
             <VideoBlock/>

@@ -19,7 +19,7 @@ const Wrapper = styled.section`
 const RightContents: React.SFC = () => {
     return (
         <Wrapper>
-            <h3><SU>반응형 사이트 오른쪽 컨텐츠</SU></h3>
+            <h3><SU>프로젝트 오른쪽 컨텐츠</SU></h3>
             <Effect1 />
             <Effect2 />
             <Effect3 />
