@@ -18,7 +18,7 @@ const Contents: React.SFC = () => {
     return (
         <Wrapper>
             <Container>
-                <h2><SU>반응형 웹사이트</SU></h2>
+                <h2><SU>반응형 웹사이트 프로젝트</SU></h2>
                 <LeftContents/>
                 <CenterContents/>
                 <RightContents/>

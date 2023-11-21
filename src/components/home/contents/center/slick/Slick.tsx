@@ -13,7 +13,7 @@ const Wrapper = styled(BlockWrapper)`
 const Slick:React.SFC = () => {
     return(
         <Wrapper>
-            <BlockFrame col_title="Projects" col_desc="현재까지 완성한 프로젝트 목록입니다.">
+            <BlockFrame col_title="Projects" col_desc="현재까지 완성한 프로젝트 목록입니다. 각 프로젝트는 GitHub에서 확인할 수 있습니다.">
                 <ImageSlider/>
             </BlockFrame>
         </Wrapper>

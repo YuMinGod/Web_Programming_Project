@@ -80,16 +80,16 @@ const images = [
         effect: "Login Tool"
     },
     {
-        src:"",
-        effect: "none3"
+        src:"https://raw.githubusercontent.com/YuMinGod/react/main/Discord_icon.webp",
+        effect: "Discord Seotta Bot"
     },
     {
-        src:"",
-        effect: "none4"
+        src:"https://raw.githubusercontent.com/YuMinGod/react/dcea666c5917a5d3e44aa7af4f203d393a64a428/penguin-removebg-preview.png",
+        effect: "Penguin Game"
     },
     {
-        src:"",
-        effect: "none5"
+        src:"https://github.com/YuMinGod/react/blob/main/1200px-2-Dice-Icon.svg.png?raw=true",
+        effect: "Dice Game"
     },
     
 ];
