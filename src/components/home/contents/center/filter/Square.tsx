@@ -72,7 +72,7 @@ const Box = styled.div`
 
 const images = [
     {
-        src:"https://github.com/YuMinGod/react/blob/main/youtube_logo.PNG?raw=true",
+        src:"https://github.com/YuMinGod/react/blob/main/yt_button.png?raw=true",
         effect: "YT Downloader"
     },
     {
