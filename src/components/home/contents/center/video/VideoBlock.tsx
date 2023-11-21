@@ -20,7 +20,7 @@ const VideoWrapper = styled.div`
 const VideoBlock:React.SFC = () => {
     return(
         <Wrapper>
-            <BlockFrame col_title="Video" col_desc="해당 프로젝트 제작의 참고 영상입니다.">
+            <BlockFrame col_title="Video" col_desc="해당 프로젝트 제작 참고 영상입니다.">
                 <VideoWrapper>
                     <iframe title="youtube" src="https://www.youtube.com/embed/dtBNnijA1QU?si=me1ANu9dTXCyntyu" frameBorder={0} allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen={true}/>
                 </VideoWrapper>
