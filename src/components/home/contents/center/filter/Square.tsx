@@ -80,8 +80,8 @@ const images = [
         effect: "Login Tool"
     },
     {
-        src:"https://raw.githubusercontent.com/YuMinGod/react/main/Discord_icon.webp",
-        effect: "Discord Seotta Bot"
+        src:"https://github.com/YuMinGod/images_repos/blob/main/2911230.png?raw=true",
+        effect: "Text Editor"
     },
     {
         src:"https://raw.githubusercontent.com/YuMinGod/react/dcea666c5917a5d3e44aa7af4f203d393a64a428/penguin-removebg-preview.png",
